@@ -4,3 +4,10 @@
 #ignore Debug files
 /bin
 /obj
+
+#ignore settings files
+appsettings.json
+appsettings.Development.json
+
+#ignore csproj file
+dotnet.csproj
