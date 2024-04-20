@@ -6,8 +6,7 @@
 /obj
 
 #ignore settings files
-appsettings.json
-appsettings.Development.json
+*.json
 
 #ignore csproj file
 dotnet.csproj
