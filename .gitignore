@@ -1,0 +1,6 @@
+#ignore properties
+/Properties
+
+#ignore Debug files
+/bin/Debug/.net8.0
+/obj
