@@ -10,3 +10,6 @@
 
 #ignore csproj file
 dotnet.csproj
+
+#ignore yaml
+*.yaml
