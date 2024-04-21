@@ -1,15 +1,15 @@
 #ignore properties
-/Properties
+Properties/
 
 #ignore Debug files
-/bin
-/obj
+bin/
+obj/
 
 #ignore settings files
 *.json
 
 #ignore csproj file
-dotnet.csproj
+*.csproj
 
 #ignore yaml
 *.yaml
